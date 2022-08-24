@@ -1,13 +1,14 @@
 # Hardware practicals
 Aerial robotics - MICRO 502, EPFL
 ---
+The initial repo was forked from [Dronecourse at EPFL](https://github.com/orgs/dronecourse-epfl/repositories)
 Note:
 - the python script of our implementation is located in crazyfly-lib-python/dev/crazypractical.py
 - run the script inside the crazyfly-lib-python directory using the command python dev/crazypractical.py
 
 ## Project description
 
-The aim of this project is the following: a Crazyflie (10cmx10cm drone) and a box (30cmx30cmx10cm) are placed
+The aim of this project is the following: a [Crazyflie](https://www.bitcraze.io/products/old-products/crazyflie-2-0/) (10cmx10cm drone) and a box (30cmx30cmx10cm) are placed
 on a square map (1.2mx1.2m). The drone must be able to detect the box without knowing its position a priori and then
 proceed to land on it.
 
